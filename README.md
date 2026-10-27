@@ -8,9 +8,9 @@
 
 <p align = "center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luismariofg132&show_icons=true&theme=dark" alt="luismariofg132" />
+<img src="https://github-readme-stats.vercel.app/api?username=lfrankog&show_icons=true&theme=dark" alt="luismariofg132" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismariofg132&layout=compact&show_icons=true&theme=dark" alt="luismariofg132" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfrankog&layout=compact&show_icons=true&theme=dark" alt="luismariofg132" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
